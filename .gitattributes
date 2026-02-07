@@ -1,2 +1,4 @@
 * text=auto eol=lf
 *.ai binary
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
